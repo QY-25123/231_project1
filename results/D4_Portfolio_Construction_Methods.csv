@@ -1,0 +1,6 @@
+Strategy,Cumulative Return,Annualized Return,Annualized Volatility,Sharpe Ratio,Max Drawdown,Win Rate
+SMAcross-20/50(equal-wt),72.00%,11.51%,18.98%,0.396,-37.71%,51.67%
+SMAcross-20/50(risk-adj),53.39%,8.98%,16.15%,0.308,-32.90%,50.88%
+TopK-Momentum-30d/K10(equal-wt),239.09%,27.81%,27.60%,0.863,-43.25%,52.55%
+TopK-Momentum-30d/K10(risk-adj),160.46%,21.21%,25.46%,0.676,-44.12%,52.23%
+NDX100-EqualWeight-BH,132.08%,18.43%,21.22%,0.680,-26.13%,53.43%

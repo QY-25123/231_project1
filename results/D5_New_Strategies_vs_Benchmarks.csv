@@ -1,0 +1,5 @@
+Strategy,Cumulative Return,Annualized Return,Annualized Volatility,Sharpe Ratio,Max Drawdown,Win Rate
+Benchmark1-SMAcross-20/50,72.00%,11.51%,18.98%,0.396,-37.71%,51.67%
+Benchmark2-TopK-Momentum-30d/K10,239.09%,27.81%,27.60%,0.863,-43.25%,52.55%
+New1-DualMomentum(abs90+rel30),270.57%,30.11%,25.60%,1.020,-36.75%,50.40%
+New2-RiskAdjMomentumScore-30d,194.61%,24.25%,21.28%,0.952,-32.89%,51.52%

@@ -1,0 +1,7 @@
+Strategy,Cumulative Return,Annualized Return,Annualized Volatility,Sharpe Ratio,Max Drawdown,Win Rate
+Momentum-20d,369.45%,36.45%,38.46%,0.844,-49.78%,32.38%
+MeanReversion-20d/1σ,202.21%,24.89%,26.18%,0.798,-22.65%,10.69%
+RSI-14d(oversold<40),105.71%,15.60%,26.70%,0.434,-41.23%,11.16%
+BollingerBands-20d/2σ,216.17%,26.03%,26.13%,0.843,-39.98%,9.73%
+SMACross-10/30d,334.83%,34.36%,38.80%,0.783,-45.63%,31.66%
+Buy&Hold,1103.04%,64.85%,51.67%,1.178,-66.36%,53.59%
